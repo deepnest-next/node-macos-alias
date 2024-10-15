@@ -1,5 +1,4 @@
 
-#define NAPI_VERSION 3
 #include <napi.h>
 #include <Carbon/Carbon.h>
 #include <CoreFoundation/CFURL.h>

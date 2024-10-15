@@ -1,5 +1,4 @@
 
-#define NAPI_VERSION 3
 #include <napi.h>
 #include <CoreFoundation/CFURL.h>
 #include <CoreFoundation/CFString.h>
